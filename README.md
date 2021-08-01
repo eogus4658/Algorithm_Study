@@ -21,3 +21,15 @@ LeetCode 5 : Longest Palindromic Substring 가장 긴 팰린드롬 부분 문자
 처음에 재귀함수로 풀어보려 하였으나 시간 초과로 실패했다....
 
 -> 재귀함수 쓸 시간에 리스트로 값 다 저장해놓는게 더 빠른것 같다.
+
+------------------------ 2021/08/01 ------------------
+
+LeetCode 42 : Trapping Rain Water
+
+문제 : https://leetcode.com/problems/trapping-rain-water/
+
+풀이 : https://velog.io/@wind1992/LeetCode-42 
+
+투 포인터를 이용한 풀이가 자주 나오니 잘 알아두면 좋을 것 같고,
+
+또한 스택을 이용한 풀이법이 있는데, 스택을 이용하는 방법에 익숙해져 나가야겠다.
