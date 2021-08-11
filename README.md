@@ -49,3 +49,7 @@ LeetCode 15 : 3Sum
 LeetCode 238 : Product of Array Except Self
 
 문제 : https://leetcode.com/problems/product-of-array-except-self/
+
+LeetCode 21 : Merge Two Sorted Lists
+
+문제 : https://leetcode.com/problems/merge-two-sorted-lists/
