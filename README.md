@@ -50,6 +50,12 @@ LeetCode 238 : Product of Array Except Self
 
 문제 : https://leetcode.com/problems/product-of-array-except-self/
 
+------------------------ 2021/09/13 ------------------
+
 LeetCode 21 : Merge Two Sorted Lists
 
 문제 : https://leetcode.com/problems/merge-two-sorted-lists/
+
+풀이 : https://joecho.tistory.com/entry/leetcode21
+
+책에서는 재귀함수로 풀이해놨는데, 우선 이 풀이부터 이해하고 따라해도 늦지 않을 것 같다.
