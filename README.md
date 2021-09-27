@@ -59,3 +59,17 @@ LeetCode 21 : Merge Two Sorted Lists
 풀이 : https://joecho.tistory.com/entry/leetcode21
 
 책에서는 재귀함수로 풀이해놨는데, 우선 이 풀이부터 이해하고 따라해도 늦지 않을 것 같다.
+
+------------------------ 2021/09/27 ------------------
+
+LeetCode 316 : Remove Duplicate Letters
+
+문제 : https://leetcode.com/problems/remove-duplicate-letters/
+
+풀이 : https://velog.io/@pyh8618/LeetCode-316.-Remove-Duplicate-Letters-%EC%A4%91%EB%B3%B5-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0
+
+혼자서 해결하려다 안 풀려서 풀이 보고 해결했다.. 간단히 loop만으로 해결되는 쉬운 문제로 보였지만, 루프마다 남은 문자 갯수를 세줘야 하는 어려운 문제이다. 
+
+책에는 재귀함수와 스택 두가지 방법으로 풀이했지만, 스택이 더 풀이 시간도 짧고 이해하기 쉬운것 같다. (사실 원리는 두 방법 모두 동일하다.)
+
+나중에 몇번이고 다시 풀어볼 문제이다. while문으로 조건에 따라 스택을 빼고, 그 후 넣는 테크닉이 인상깊었다.
