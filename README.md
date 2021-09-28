@@ -75,3 +75,11 @@ LeetCode 316 : Remove Duplicate Letters
 나중에 몇번이고 다시 풀어볼 문제이다. while문으로 조건에 따라 스택을 빼고, 그 후 넣는 스택 컨트롤 테크닉이 인상깊었다.
 
  + 재귀 풀이도 눈여겨 볼 법 하다. 분할 정복과 백트래킹 기법이 쓰이는데 잘 복습해야겠다.
+
+LeetCode 739 : Daily Temperatures
+
+문제 : https://leetcode.com/problems/daily-temperatures/submissions/
+
+풀이 : https://daebaq27.tistory.com/40
+
+LeetCode 42. Trapping Rain Water 문제와 풀이법이 유사하다. 같이 풀어보면 좋을 것 같다.
