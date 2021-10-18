@@ -83,3 +83,9 @@ LeetCode 739 : Daily Temperatures
 풀이 : https://daebaq27.tistory.com/40
 
 LeetCode 42. Trapping Rain Water 문제와 풀이법이 유사하다. 같이 풀어보면 좋을 것 같다.
+
+------------------------ 2021/10/18 ------------------
+
+ + 개인적인 고찰 - 딕셔너리 vs 해시 테이블?
+
+
