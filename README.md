@@ -88,4 +88,14 @@ LeetCode 42. Trapping Rain Water 문제와 풀이법이 유사하다. 같이 풀
 
  + 개인적인 고찰 - 딕셔너리 vs 해시 테이블?
 
+LeetCode 3 : Longest Substring Without Repeating Characters
 
+문제 : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+풀이 : https://inspirit941.tistory.com/304 , https://codinghack.tistory.com/m/72?category=938721
+
+해시 테이블 챕터에 있는 문제지만 투 포인터와 슬라이딩 윈도우 개념이 쓰여 어려웠다..
+
+결국 슬라이딩 윈도우를 어케 구현할 것이냐의 문제인데, 해시 테이블(key : char, val : index)과 투 포인터를 이용해도 되지만,
+
+직관적으로 데큐로 풀이한 것도 인상깊었다.
