@@ -87,6 +87,7 @@ LeetCode 42. Trapping Rain Water 문제와 풀이법이 유사하다. 같이 풀
 ------------------------ 2021/10/18 ------------------
 
  + 개인적인 고찰 - 딕셔너리 vs 해시 테이블?
+ + python 문법 - zip(), *(별표)에 대해
 
 LeetCode 3 : Longest Substring Without Repeating Characters
 
