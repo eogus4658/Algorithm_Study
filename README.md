@@ -100,3 +100,11 @@ LeetCode 3 : Longest Substring Without Repeating Characters
 결국 슬라이딩 윈도우를 어케 구현할 것이냐의 문제인데, 해시 테이블(key : char, val : index)과 투 포인터를 이용해도 되지만,
 
 직관적으로 데큐로 풀이한 것도 인상깊었다.
+
+------------------------ 2021/10/21 ------------------
+
+LeetCode 200 : Number of Islands
+
+문제 : https://leetcode.com/problems/number-of-islands/
+
+대표적인 그래프 문제라고 할 수 있다. 이 문제로 처음 DFS를 접해보았다. 뿌듯~
