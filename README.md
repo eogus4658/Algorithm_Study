@@ -109,8 +109,14 @@ LeetCode 200 : Number of Islands
 
 대표적인 그래프 문제라고 할 수 있다. 이 문제로 처음 DFS를 접해보았다. 뿌듯~
 
------------------------- 2021/10/24 ------------------
+------------------------ 2021/10/25 ------------------
 
 LeetCode 332 : Reconstruct Itinerary
 
 문제 : https://leetcode.com/problems/reconstruct-itinerary/submissions/
+
+풀이 : https://ihp001.tistory.com/98
+
+DFS 유형의 문제이다. 다만 리프 노드부터 답에 추가하고, 리스트를 뒤집어서 답을 내는 방식을 떠올리자!
+
+답을 보고 머릿속으로 탐색을 진행해보니까, 아니 이게 되네?
