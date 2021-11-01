@@ -120,3 +120,13 @@ LeetCode 332 : Reconstruct Itinerary
 DFS 유형의 문제이다. 다만 리프 노드부터 답에 추가하고, 리스트를 뒤집어서 답을 내는 방식을 떠올리자!
 
 답을 보고 머릿속으로 탐색을 진행해보니까, 아니 이게 되네?
+
+------------------------ 2021/11/01 ------------------
+
+LeetCode 207 : Course Schedule
+
+문제 : https://leetcode.com/problems/course-schedule/submissions/
+
+DFS 유형 문제이나 가지치기를 통해 이미 탐색한 노드를 만날 때 백트래킹 해주는 최적화 작업이 있어야 Time Limit가 안 걸린다.
+
+꼭 다시 풀어보자!
