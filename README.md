@@ -130,3 +130,17 @@ LeetCode 207 : Course Schedule
 DFS 유형 문제이나 가지치기를 통해 이미 탐색한 노드를 만날 때 백트래킹 해주는 최적화 작업이 있어야 Time Limit가 안 걸린다.
 
 꼭 다시 풀어보자!
+
+------------------------ 2021/11/02 ------------------
+
+LeetCode 743 : Network Delay Time
+
+문제 : https://leetcode.com/problems/network-delay-time/
+
+참고 유튜브 강의 : https://www.youtube.com/watch?v=611B-9zk2o4
+
+최단 경로 문제로, 그 중에 다익스트라 알고리즘을 이용한다.
+
+다익스트라 첫경험이라 뭔말인지 몰라서 유튜브 찾아보고 이해했다. 유튜브 봐도 너무 어렵다.
+
+여러번 풀어봐야 익숙해지지 않을까...
