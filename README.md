@@ -144,3 +144,11 @@ LeetCode 743 : Network Delay Time
 다익스트라 첫경험이라 뭔말인지 몰라서 유튜브 찾아보고 이해했다. 유튜브 봐도 너무 어렵다.
 
 여러번 풀어봐야 익숙해지지 않을까...
+
+------------------------ 2021/11/03 ------------------
+
+LeetCode 787 : Cheapest Flights Within K Stops
+
+문제 : https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+위에 문제랑 비슷한 유형의 최단 경로 문제이다. 위 743번과 같이 풀어보면 더 좋을 것 같다.
