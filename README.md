@@ -152,3 +152,11 @@ LeetCode 787 : Cheapest Flights Within K Stops
 문제 : https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
 위에 문제랑 비슷한 유형의 최단 경로 문제이다. 위 743번과 같이 풀어보면 더 좋을 것 같다.
+
+------------------------ 2021/11/08 ------------------
+
+Leetcode 687 : Longest Univalue Path
+
+문제 : https://leetcode.com/problems/longest-univalue-path/
+
+트리 알고리즘 관련 문제이다. 2% 아쉽게 못 풀어서 여기 남겨봐요.. 한번 더 풀어보자!
