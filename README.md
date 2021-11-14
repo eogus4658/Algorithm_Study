@@ -161,6 +161,8 @@ Leetcode 687 : Longest Univalue Path
 
 트리 알고리즘 관련 문제이다. 2% 아쉽게 못 풀어서 여기 남겨봐요.. 한번 더 풀어보자!
 
+------------------------ 2021/11/14 ------------------
+
 LeetCode 297 : Serialize and Deserialize Binary Tree
 
 문제 : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
