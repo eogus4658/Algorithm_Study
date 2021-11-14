@@ -160,3 +160,11 @@ Leetcode 687 : Longest Univalue Path
 문제 : https://leetcode.com/problems/longest-univalue-path/
 
 트리 알고리즘 관련 문제이다. 2% 아쉽게 못 풀어서 여기 남겨봐요.. 한번 더 풀어보자!
+
+LeetCode 297 : Serialize and Deserialize Binary Tree
+
+문제 : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+완전 이진 트리 -> 배열 : 직렬화 , 배열 -> 완전 이진 트리 : 역직렬화 
+
+직렬화와 역직렬화를 구현하는 문제이다. 개인적으로 배열을 문자열으로 표현하는데 있어 어려움을 겪었다.
