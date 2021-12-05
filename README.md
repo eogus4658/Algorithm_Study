@@ -170,3 +170,13 @@ LeetCode 297 : Serialize and Deserialize Binary Tree
 완전 이진 트리 -> 배열 : 직렬화 , 배열 -> 완전 이진 트리 : 역직렬화 
 
 직렬화와 역직렬화를 구현하는 문제이다. 개인적으로 배열을 문자열으로 표현하는데 있어 어려움을 겪었다.
+
+------------------------ 2021/12/05 ------------------
+
+LeetCode 310 : Minimum Height Trees
+
+문제 : https://leetcode.com/problems/minimum-height-trees/
+
+풀이 : https://devbull.xyz/leetcode-310-minimum-height-trees/
+
+최소 높이 트리(MST) 문제이다. '최소높이트리 문제는 트리의 무게중심을 구하는 것과 같다' 를 알면 풀 수 있다!
