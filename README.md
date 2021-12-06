@@ -180,3 +180,19 @@ LeetCode 310 : Minimum Height Trees
 풀이 : https://devbull.xyz/leetcode-310-minimum-height-trees/
 
 최소 높이 트리(MST) 문제이다. '최소높이트리 문제는 트리의 무게중심을 구하는 것과 같다' 를 알면 풀 수 있다!
+
+------------------------ 2021/12/06 ------------------
+
+LeetCode 108 : Convert Sorted Array to Binary Search Tree
+
+문제 : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+풀이 : https://jiwon-lee-it.tistory.com/106
+
+높이 균형(Height Balanced) 인 이진 탐색 트리(Binary Search Tree, BST) 를 만드는 문제이다.
+
+풀이의 핵심은, 역시 트리의 기본 속성인 재귀성에 있었다.
+
+즉, 트리의 서브트리도 모두 트리이기 때문에 재귀 형식으로 분할 정복의 풀이로 쉽게 풀리는 문제였다.
+
+이진 탐색에서의 루틴과 같은 방법으로 HB-BST 구성이 가능하다는 점을 알게 되었다.
