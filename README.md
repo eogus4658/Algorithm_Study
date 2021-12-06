@@ -196,3 +196,9 @@ LeetCode 108 : Convert Sorted Array to Binary Search Tree
 즉, 트리의 서브트리도 모두 트리이기 때문에 재귀 형식으로 분할 정복의 풀이로 쉽게 풀리는 문제였다.
 
 이진 탐색에서의 루틴과 같은 방법으로 HB-BST 구성이 가능하다는 점을 알게 되었다.
+
+LeetCode 1038 : Binary Search Tree to Greater Sum Tree
+
+문제 : https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
+위 문제와 비슷한 맥락으로 풀이. 한 끗 차이라 다시 풀어보는게 좋을 듯.
