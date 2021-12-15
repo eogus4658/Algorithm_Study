@@ -202,3 +202,9 @@ LeetCode 1038 : Binary Search Tree to Greater Sum Tree
 문제 : https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 
 위 문제와 비슷한 맥락으로 풀이. 한 끗 차이라 다시 풀어보는게 좋을 듯.
+
+------------------------ 2021/12/15 ------------------
+
+LeetCode 336 : Palindrome Pairs
+
+https://white-board.tistory.com/131
