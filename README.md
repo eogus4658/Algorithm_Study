@@ -234,3 +234,15 @@ LeetCode 148 : Sort List
 연결 리스트 정렬을 O(nlogn) 안에 정렬해야 해서 평소 알고 있던 정렬로는 풀 수 없고,
 
 병합 정렬 구현을 연습해볼 수 있는 문제이다. 정렬 알고리즘 연습용으로 딱 좋을 것 같다.
+
+------------------------ 2021/12/29 ------------------
+
+LeetCode 148 : Largest Number
+
+문제 : https://leetcode.com/problems/largest-number/
+
+풀이 : https://somjang.tistory.com/entry/leetCode-179-Largest-Number-Python
+
+평범한 정렬 조건으로는 안 풀리고, 특이한 정렬 조건으로 풀어야 하는 재밌는 문제이다.
+
+책에 있는 풀이도 좋지만, sort 함수의 key parameter를 잘 활용한 깔끔한 풀이도 같이 공유한다.
