@@ -246,3 +246,11 @@ LeetCode 148 : Largest Number
 평범한 정렬 조건으로는 안 풀리고, 특이한 정렬 조건으로 풀어야 하는 재밌는 문제이다.
 
 책에 있는 풀이도 좋지만, sort 함수의 key parameter를 잘 활용한 깔끔한 풀이도 같이 공유한다.
+
+------------------------ 2022/01/04 ------------------
+
+LeetCode 973 : K Closest Points to Origin
+
+문제 : https://leetcode.com/problems/k-closest-points-to-origin/
+
+투 포인터 비스무리한 풀이로 해결해볼 수 있을 것 같다.
