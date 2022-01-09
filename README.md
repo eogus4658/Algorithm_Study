@@ -254,3 +254,11 @@ LeetCode 973 : K Closest Points to Origin
 문제 : https://leetcode.com/problems/k-closest-points-to-origin/
 
 투 포인터 비스무리한 풀이로 해결해볼 수 있을 것 같다.
+
+------------------------ 2022/01/09 ------------------
+
+LeetCode 704 : Binary Search
+
+문제 : https://leetcode.com/problems/binary-search/
+
+이진 검색 알고리즘을 직접 짜볼 수 있는 문제이다. 배열 인덱스 값 설정에 주의하자.
