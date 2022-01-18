@@ -262,3 +262,15 @@ LeetCode 704 : Binary Search
 문제 : https://leetcode.com/problems/binary-search/
 
 이진 검색 알고리즘을 직접 짜볼 수 있는 문제이다. 배열 인덱스 값 설정에 주의하자.
+
+------------------------ 2022/01/18 ------------------
+
+LeetCode 240 : Search a 2D Matrix II
+
+문제 : https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+풀이 : https://velog.io/@pyh8618/LeetCode-240.-Search-a-2D-Matrix-II
+
+이진 검색을 이용해서 복잡하게 풀어야 할 것 같지만 풀이는 창의적으로 간단하게 해결했더라.
+
+다시 풀면 이런 풀이가 있었지, 하고 넘기면 될 것 같다. (그냥 알고리즘을 고민하면  문제!)
