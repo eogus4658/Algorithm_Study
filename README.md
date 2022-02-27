@@ -299,6 +299,8 @@ LeetCode 406 : Queue Reconstruction by Height
 
 다시 말해, 루프 중간에 빠져나와도 그 결과값은 루프 중간까지의 정답이 들어가 있어야 한다.
 
+
+
 LeetCode 621 : Task Scheduler
 
 문제 : https://leetcode.com/problems/task-scheduler/
