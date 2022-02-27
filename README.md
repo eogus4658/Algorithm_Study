@@ -298,3 +298,15 @@ LeetCode 406 : Queue Reconstruction by Height
 그리디 알고리즘을 연습해볼 수 있는 문제이다. 그리디 알고리즘은 데이터가 들어올때마다 그때그때 최적해를 찾을 수 있도록 하는 것이다.
 
 다시 말해, 루프 중간에 빠져나와도 그 결과값은 루프 중간까지의 정답이 들어가 있어야 한다.
+
+LeetCode 621 : Task Scheduler
+
+문제 : https://leetcode.com/problems/task-scheduler/
+
+풀이 : https://withhamit.tistory.com/419
+
+이것도 그리디 알고리즘 문제이다. 책의 풀이가 복잡해서 인터넷에 있는 고수의 풀이를 참고해서 풀었다.
+
+느낀 점은 이 고수처럼 나도 풀 때 손으로 끄적이면서 먼저 풀어보는 게 아주 중요한 것 같다.
+
+역시 잘하는 사람은 뭔가 다른 게 있나보다. 고수의 풀이가 감명깊었다.
