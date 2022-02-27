@@ -286,3 +286,15 @@ LeetCode 76 : Minimum Window Substring
 슬라이딩 윈도우(투 포인터) 풀이로 해결이 가능하다. 문제 해결 접근은 비슷하게 잘 접근했으나
 
 변수 설정과 해결 조건을 정교하게 설계하지 못한 것 같아 아쉽다. 좋은 문제이니 다시 풀어볼 것.
+
+------------------------ 2022/02/27 ------------------
+
+LeetCode 406 : Queue Reconstruction by Height
+
+문제 : https://leetcode.com/problems/queue-reconstruction-by-height/
+
+풀이 : https://8iggy.tistory.com/138
+
+그리디 알고리즘을 연습해볼 수 있는 문제이다. 그리디 알고리즘은 데이터가 들어올때마다 그때그때 최적해를 찾을 수 있도록 하는 것이다.
+
+다시 말해, 루프 중간에 빠져나와도 그 결과값은 루프 중간까지의 정답이 들어가 있어야 한다.
