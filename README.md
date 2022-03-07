@@ -312,3 +312,11 @@ LeetCode 621 : Task Scheduler
 느낀 점은 이 고수처럼 나도 풀 때 손으로 끄적이면서 먼저 풀어보는 게 아주 중요한 것 같다.
 
 역시 잘하는 사람은 뭔가 다른 게 있나보다. 고수의 풀이가 감명깊었다.
+
+------------------------ 2022/03/07 ------------------
+
+LeetCode 169 : Majority Element
+
+문제 : https://leetcode.com/problems/majority-element/
+
+분할 정복(Divide and Conquer) 알고리즘 맛보기 유형..
