@@ -1,3 +1,7 @@
+# https://eogus4658.notion.site/1-1-d38d410d4d84454e9bf90c4aa43bbdc6?pvs=4
+
+2023/12/08 - 노션으로 이사감
+
 # Algorithm_Study
 개인적으로 까다로웠던 문제들 모아놓는 곳
 
